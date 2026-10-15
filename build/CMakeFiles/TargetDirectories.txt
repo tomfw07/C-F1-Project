@@ -1,0 +1,3 @@
+C:/Users/tfew0/Downloads/f1_telemetry_cpp_project/build/CMakeFiles/f1_telemetry.dir
+C:/Users/tfew0/Downloads/f1_telemetry_cpp_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tfew0/Downloads/f1_telemetry_cpp_project/build/CMakeFiles/ZERO_CHECK.dir
